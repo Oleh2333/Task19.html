@@ -14,3 +14,16 @@ body{
     align-items: center;
     height: 10vh; 
   }
+
+  .center {
+    text-align: center;
+  }
+  .pink-btn {
+    background-color: pink;
+    color: red;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    height: 10vh; 
+  }
