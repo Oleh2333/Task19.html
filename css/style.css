@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+
+.container img {
+    margin-right: 5px; 
+}
+body{
+    background-color: thistle;
+}
